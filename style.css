@@ -1,0 +1,25 @@
+.outer{
+  background: orange;
+  height:700px;
+  width:900px;
+}
+h1{
+  color:white;
+  margin-left: 200px;
+  font-size: 100px;
+  padding-top: 75px;
+}
+button{
+  width: 130px;
+  height:75px;
+  border-style: none;
+  color:red;
+  margin-left: 120px;
+  font-size: 30px;
+}
+p{
+  font-size: 100px;
+  color: white;
+
+  text-align: center;
+}
